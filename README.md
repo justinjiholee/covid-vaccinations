@@ -18,9 +18,9 @@ First we perform geospatial analysis on JHU and its popularity is globally. We a
 
 Following maps show Popularity ranking of JHU by country and Value ranking of JHU by country:
 
-![alt text](
+![alt text](https://github.com/justinjiholee/covid-vaccinations/blob/main/PopularityRankingJHU.png)
 
-![alt text]
+![alt text](
 
 ![alt text]
 
