@@ -40,12 +40,11 @@ Next, we look at the Covid-19 vaccination trends in these countries and do analy
 
 ![alt text](https://github.com/justinjiholee/covid-trend/blob/main/Python%20Data.png)
 
-From this table, it is shown that China and India had the most amount of vaccinations, but they also have a significantly high population, so we decided to look at total vaccinations per hundred in order to compare the percent of people getting vaccinated from their countries. 
-
+In this line chart, it shows the number of people getting vaccinated for different countries. This shows that number of people getting vaccinated fluctuates daily, but it is clearly shown that significantly higher number of people in China and India are getting vaccinated compared to other three countries. 
 
 ![alt text](https://github.com/justinjiholee/covid-trend/blob/main/Vaccination%20Trend.png)
 
-In this line chart, it shows the number of people getting vaccinated for different countries. This shows that number of people getting vaccinated fluctuates daily, but it is clearly shown that significantly higher number of people in China and India are getting vaccinated compared to other three countries. 
+From this table and line graph, it is shown that China and India had the most amount of vaccinations, but they also have a significantly high population, so we decided to look at total vaccinations per hundred in order to compare the percent of people getting vaccinated from their countries. 
 
 In order to compare the percent of people getting vaccinated for different countries, we have decided to make a bar graph using plotly as it provides effective comparison.
 
