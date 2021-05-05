@@ -24,12 +24,18 @@ Following maps show Popularity ranking of JHU by country and Value ranking of JH
 
 Then, from https://www.collegefactual.com/colleges/johns-hopkins-university/student-life/international/chart-international.html we can extract 5 countries with the highest percentage of Hopkins students:
 
-China 3,260
-India 429
-South Korea 331
-Canada 219
-Turkey 41
+ China 3,260
+ 
+ India 429
+ 
+ South Korea 331
+ 
+ Canada 219
+ 
+ Turkey 41
 
-![alt text](
+![alt text](https://github.com/justinjiholee/covid-vaccinations/blob/main/international%20student%20countries.png)
+
+
 
 ![alt text]
