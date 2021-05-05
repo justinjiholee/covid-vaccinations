@@ -17,3 +17,11 @@ _What does mandating a vaccination mean for JHU and how Hopkins should think abo
 First we perform geospatial analysis on JHU and its popularity is globally. We analyse international student trends at Johns Hopkins University to discover how Johns Hopkins stacks up to the competition when it comes to serving students from outside the United States.
 
 Following maps show Popularity ranking of JHU by country and Value ranking of JHU by country:
+
+![alt text](
+
+![alt text]
+
+![alt text]
+
+![alt text]
