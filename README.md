@@ -50,7 +50,7 @@ In order to compare the percent of people getting vaccinated for different count
 
 ![alt text](https://github.com/justinjiholee/covid-trend/blob/main/Vaccinations%20per%20Population.png)
 
-From this graph, we learned that Canada has the highest proportion of people who got vaccinated, followed by Turkey, China, India, and South Korea. In addition to the bar chart of the percentage of people who got vaccinated, we have also created a line graph of vaccination trends using scatter tool. 
+From this graph, we learned that Canada has the highest proportion of people who got vaccinated, followed by Turkey, China, India, and South Korea. 
 
 
 ![alt text](https://github.com/justinjiholee/covid-vaccinations/blob/main/vaccinatedpeople.png)
