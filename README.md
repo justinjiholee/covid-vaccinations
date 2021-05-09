@@ -36,7 +36,7 @@ Then, from https://www.collegefactual.com/colleges/johns-hopkins-university/stud
 
 ![alt text](https://github.com/justinjiholee/covid-vaccinations/blob/main/international%20student%20countries.png)
 
-We have looked at the Covid-19 vaccination trends in these 5 countries and conducted an analysis of people getting vaccinated. Extracting the data from [Our World in Data](https://ourworldindata.org/covid-vaccinations), we were able to analyze the current trends of vaccinations. Using groupby tool on python, we were able to look at the number of total cases and total vaccinations for the selected five countires. 
+We have looked at the Covid-19 vaccination trends in these 5 countries and conducted an analysis of people getting vaccinated. Extracting the data from [Our World in Data](https://ourworldindata.org/covid-vaccinations), we were able to analyze the current trends of vaccinations. Using groupby tool on python, we were able to look at the number of total cases and total vaccinations for the selected five countries. 
 
 ![alt text](https://github.com/justinjiholee/covid-trend/blob/main/Python%20Data.png)
 
